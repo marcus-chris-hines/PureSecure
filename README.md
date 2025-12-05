@@ -1,5 +1,5 @@
 # PureSecure
-The pure way
+
 
 
 # Oficial Landing Page – How to Run It
